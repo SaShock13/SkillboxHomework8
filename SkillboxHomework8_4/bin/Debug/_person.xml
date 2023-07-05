@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person ФИО="jfgdgf">
+  <Address>
+    <Street Улица="sdfsdf" />
+    <HouseNumber НомерДома="12" />
+    <FlatNumber НомерКвартиры="13" />
+  </Address>
+  <Phones>
+    <MobilePhone МобильныйТелефон="141414" />
+    <FlatPhone ДомашнийТелефон="123123" />
+  </Phones>
+</Person>
